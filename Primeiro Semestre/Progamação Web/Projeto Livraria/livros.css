@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(to right, #D3CBB8, #6D6027);
+    margin: 0px;
+}
+
+.titulo {
+   color: white;
+   font-size: 40px;
+   font-family: 'Times New Roman', Times, serif;
+   text-shadow: 2px 2px black;
+}
+
+.titulinho {
+    font-size: 20px;
+    background-color: #686d7a;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    text-shadow: 1px 1px #000000;
+}
+
+.redes {
+    font-size: 20px;
+    color: #704f10;
+    text-shadow: 1px 1px #000000;
+}
+
+.imagem {
+    border-radius: 150px;
+}
+
+.tituloform {
+    font-size: 45px;
+    text-shadow: 1px 1px #c7c7c7;
+}
+
+.perguntaform {
+    font-size: 27px;
+    font-weight: bold;
+}
+
+.opcao {
+    font-size: 50px;
+}

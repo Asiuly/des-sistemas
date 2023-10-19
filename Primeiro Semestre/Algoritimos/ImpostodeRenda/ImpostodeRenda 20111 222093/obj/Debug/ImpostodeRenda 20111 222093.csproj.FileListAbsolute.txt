@@ -1,0 +1,8 @@
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\bin\Debug\ImpostodeRenda 20111 222093.exe.config
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\bin\Debug\ImpostodeRenda 20111 222093.exe
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\bin\Debug\ImpostodeRenda 20111 222093.pdb
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\obj\Debug\ImpostodeRenda 20111 222093.csproj.AssemblyReference.cache
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\obj\Debug\ImpostodeRenda 20111 222093.csproj.SuggestedBindingRedirects.cache
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\obj\Debug\ImpostodeRenda 20111 222093.csproj.CoreCompileInputs.cache
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\obj\Debug\ImpostodeRenda 20111 222093.exe
+D:\Luisa DS a noite\Algorítimos\ImpostodeRenda 20111 222093\ImpostodeRenda 20111 222093\obj\Debug\ImpostodeRenda 20111 222093.pdb

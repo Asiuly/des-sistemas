@@ -1,0 +1,109 @@
+.principal  {
+    display: flex;
+    margin-top: 30px;
+}
+
+.signo  {
+    font-size: 55px;
+    font-family: Carolingia;
+    text-shadow: 3px 3px #000000;
+    text-align: center;
+}
+
+body{
+    background: #bdc3c7;
+    background: linear-gradient(to left, #10141a, #636262);
+    margin: 0%;
+    padding: 0%;
+}
+
+.descricao {
+        text-align: justify;
+        font-size: 30px;
+        font-family: Demon;
+        color: black;
+        padding-left: 100px;
+        padding-right: 100px;
+        color: #c9c9c9;
+        text-shadow: 1px 1px #000000;
+        display: flex;
+}
+
+.menu ul{
+    margin: 0%;
+    float: center;
+    list-style: none;
+    font: 22px Bookman Old Style;
+    padding: 0%;
+     }
+
+.menu ul li { 
+        display: inline;
+        background: #3f3e3e;
+      }
+
+.menu ul li a { 
+        
+        color: #e0e0e0;
+        text-shadow: 2px 2px black;
+        text-decoration: none;
+        padding: 3px 115.9px;
+        float: center;
+        font-family: cursive;
+        font-size: 23px;
+        }
+
+.menu ul li a:hover {
+border-bottom: 3px solid white;
+background-color: #7d7d81;
+color: white; 
+}
+
+.tabela {
+    margin-top: 65px;
+    margin-left: 25px;
+}
+
+.titulotabela {
+    color: #b17822;
+    text-shadow: 2px 2px #10141a;
+}
+
+.tituloindex {
+        text-align: center;
+        margin-top: 90px;
+}
+
+.pqn {
+    border-radius: 28px;
+}
+
+.titleindex {
+        color: white;
+        text-shadow: 2.5px 2.5px #b17822;
+        font-size: 50px;
+        font-weight: bold;
+
+}
+
+.creditos {
+    margin-top: 80px;
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+    color: rgb(177, 174, 174);
+    font-size: 30px;
+}
+
+.finalindex {
+        margin-top: 80px;
+        color: white;
+        font-size: 40px;
+        text-shadow: 4px 4px black;
+}
+
+.shawn {
+    border-radius: 90px;
+}
