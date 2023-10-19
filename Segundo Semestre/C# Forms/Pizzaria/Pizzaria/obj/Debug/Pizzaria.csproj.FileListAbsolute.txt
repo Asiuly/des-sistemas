@@ -1,0 +1,11 @@
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.AssemblyReference.cache
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.SuggestedBindingRedirects.cache
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\Luisa e Victor sz sz\dev\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb

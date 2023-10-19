@@ -1,0 +1,11 @@
+D:\Luisa e Victor sz sz\dev\list_box\list_box\bin\Debug\list_box.exe.config
+D:\Luisa e Victor sz sz\dev\list_box\list_box\bin\Debug\list_box.exe
+D:\Luisa e Victor sz sz\dev\list_box\list_box\bin\Debug\list_box.pdb
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.csproj.AssemblyReference.cache
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.csproj.SuggestedBindingRedirects.cache
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.Form1.resources
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.Properties.Resources.resources
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.csproj.GenerateResource.cache
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.csproj.CoreCompileInputs.cache
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.exe
+D:\Luisa e Victor sz sz\dev\list_box\list_box\obj\Debug\list_box.pdb

@@ -1,0 +1,4 @@
+<?php 
+//validar usuario
+
+?>

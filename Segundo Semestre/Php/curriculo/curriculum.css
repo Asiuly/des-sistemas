@@ -1,0 +1,57 @@
+.topo {
+    margin: 0%;
+    width: 100%;
+    height: 9vh;
+    background: #10234e;
+    background: -webkit-linear-gradient(to right, #093585, #373B44);
+    background: linear-gradient(to right, #093585, #373B44);
+    color: white;
+    display: flex;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5vh;
+    border-bottom-color: black;
+}
+
+.tituloTopo {
+    margin-left: 72vh;
+    font-size: 6vh;
+    margin-top: 1vh;
+}
+
+.imagemTopo {
+    margin-left: 6vh;
+    margin-top: 1vh;
+}
+
+.imagemTopo img {
+    width: 7.5vh;
+    height: 7.5vh;
+}
+
+.formulario input[type="text"] {
+    width: 50%;
+    max-width: 40vh;
+    border-top: 0vh;
+    margin-top: 2vh;
+    display: block;
+    margin-bottom: 1vh;
+
+  }
+
+body {
+    margin: 0%;
+    background: #9d9ea1;
+}
+
+.questFormulario {
+    font-size: 3vh;
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+    font-weight: bold;
+}
+
+.subquestFormulario {
+    font-size: 1.8vh;
+    margin-top: 0;
+}
+

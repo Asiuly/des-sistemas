@@ -1,0 +1,11 @@
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\bin\Debug\Cadastro_de_Alunos.exe.config
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\bin\Debug\Cadastro_de_Alunos.exe
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\bin\Debug\Cadastro_de_Alunos.pdb
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.csproj.AssemblyReference.cache
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.csproj.SuggestedBindingRedirects.cache
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.Form1.resources
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.Properties.Resources.resources
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.csproj.GenerateResource.cache
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.csproj.CoreCompileInputs.cache
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.exe
+D:\Luisa e Victor sz sz\dev\Cadastro_de_Alunos\Cadastro_de_Alunos\obj\Debug\Cadastro_de_Alunos.pdb

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="curriculum.css">
+    <title>Cadastro de Curriculos</title>
+</head>
+<body>
+<center>
+    <div class="topo">
+        <div class="tituloTopo"> 
+            Curriculum Vitae 
+        </div>
+
+        <div class="imagemTopo">
+            <img src="icon-curriculo.png">
+        </div>
+    </div>
+
+    <div class="formulario">
+        <form action="atv_curriculo.php" method="post">
+
+        <div class="questFormulario">
+            Dados Pessoais
+        </div>
+
+        <input type="text" name="dadosNome" placeholder="Nome">
+       
+        <input type="text" name="dadosSobrenome" placeholder="Sobrenome">
+
+        <input type="text" name="dadosCpf" placeholder="CPF">
+       
+        <input type="text" name="dadosRg" placeholder="RG">
+        
+        <input type="text" name="dadosCep" placeholder="CEP">
+
+        <div class="questFormulario">
+            Escolaridade
+        </div>
+
+        <input type="text" name="escolInstituicaoEm" 
+            placeholder="Instituição onde concluiu o ensino médio"> 
+
+        <input type="text" name="escolAnoEm"
+            placeholder="Ano de conclusão do Ensino médio"> 
+
+        <input type="text" name="escolCurso"
+            placeholder="Curso técnico/profissionalizante que já realizou"> 
+
+        <input type="text" name="escolInstituicaoCurso"
+            placeholder="Instituição de realização do curso">
+
+        <input type="text" name="escolCargaHorariaCurso"
+            placeholder="Carga horaria do curso">
+            
+
+        <div class="questFormulario">
+            Experiência Profissional
+        </div>
+
+        <div class="subquestFormulario">
+            <p> 01. Insira informações sobre uma Experiência Profissional </p>
+        </div>
+
+        <input type="text" name="profEmpresa"
+            placeholder="Nome da Empresa"> 
+
+        <input type="text" name="profFuncao"
+            placeholder="Função desempenhada nessa empresa"> 
+    
+        <input type="text" name="profTempoExercao"
+            placeholder="Tempo de exercerção dessa função dentro da empresa"> 
+
+        <div class="subquestFormulario">
+            <p> 02. Insira informações sobre outra Experiência Profissional </p>
+        </div>
+
+        <input type="text" name="profEmpresa2"
+            placeholder="Nome da Empresa"> 
+
+        <input type="text" name="profFuncao2"
+            placeholder="Função desempenhada nessa empresa">
+
+        <input type="text" name="profTempoExercao2"
+            placeholder="Tempo de exercerção dessa função dentro da empresa"> 
+        
+        <center>
+        <button type="submit" style="height:50px; width: 80px;"> 
+            Enviar Dados
+        </button>
+        </center>
+        </form>
+    </div>
+
+    </center>
+</body>
+</html>

@@ -1,0 +1,11 @@
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\bin\Debug\Menssagens.exe.config
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\bin\Debug\Menssagens.exe
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\bin\Debug\Menssagens.pdb
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.csproj.AssemblyReference.cache
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.csproj.SuggestedBindingRedirects.cache
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.Form1.resources
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.Properties.Resources.resources
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.csproj.GenerateResource.cache
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.csproj.CoreCompileInputs.cache
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.exe
+D:\Luisa e Victor sz sz\dev\Menssagens\Menssagens\obj\Debug\Menssagens.pdb
